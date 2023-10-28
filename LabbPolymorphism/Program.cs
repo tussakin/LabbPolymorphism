@@ -2,6 +2,7 @@
 
 internal abstract class Program
 {
+    // Theres Sundberg Selin, .NET23
     private static void Main()
     {
         //tekniskt sett så säger väl uppgiften att jag borde göra typ såhär som jag kommenterat ut, men!
