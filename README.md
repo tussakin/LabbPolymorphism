@@ -1,1 +1,1 @@
-# TemplateLabb
+# Labb 7, polymorphism
